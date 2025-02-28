@@ -1,6 +1,6 @@
 # Projeto Conceitual de Banco de Dados - E-COMMERCE
 
-Este repositório contém a entrega do desafio de projeto do bootcamp da DIO. O objetivo do desafio era refinar um banco de dados desenvolvido durante as aulas, acrescentando três novas funcionalidades: 
+Este repositório contém a entrega do desafio de projeto do bootcamp **Heineken - Inteligência Artificial Aplicada a Dados com Copilot** da DIO. O objetivo do desafio era refinar um banco de dados desenvolvido durante as aulas, acrescentando três novas funcionalidades: 
 
 - **Cliente PJ e PF**: Uma conta pode ser PJ (Pessoa Jurídica) ou PF (Pessoa Física), mas não pode ter as duas informações ao mesmo tempo.
 - **Pagamento**: O cliente pode cadastrar mais de uma forma de pagamento.
